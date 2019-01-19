@@ -39,6 +39,8 @@ El paso final es seleccionar uno de los Temas listados y reiniciar Recalbox.
 https://forum.recalbox.com/topic/8769/themes-en-1080p
 https://www.fororaspberry.es/viewtopic.php?t=8163
 
+https://mega.nz/#F!wgwmiYKb!X3qrwaFi0prKukrEXDKglg
+
 https://github.com/libretro/retroarch-assets/tree/master/wallpapers/posterized%20consoles/1440x900
 
 https://wallpapercave.com/snes-classic-wallpapers
