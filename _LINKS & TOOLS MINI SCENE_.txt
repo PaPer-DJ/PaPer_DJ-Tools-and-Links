@@ -24,6 +24,18 @@ https://github.com/pathartl/BleemSync
 ----------------------------------------------------------
 * THEMES RECALBOX *
 
+Para los que no sepais como hacerlos funcionar:
+
+Descomprimimos el archivo descargado.
+En nuestro PC abrimos los dispositivos de red del explorador de archivos y seleccionamos RECALBOX.
+
+Lo siguiente es activar la visualización de archivos y carpetas ocultos.
+Ahora nos dirigimos a la siguiente ruta: \\RECALBOX\share\system\.emulationstation\themes
+Copiamos la carpeta del tema que queramos y las pegamos en la ruta del paso anterior.
+Abrimos el menú principal de Recalbox y elegimos CONFIGURACION DE INTERFAZ-> TEMAS
+El paso final es seleccionar uno de los Temas listados y reiniciar Recalbox.
+
+
 https://forum.recalbox.com/topic/8769/themes-en-1080p
 https://www.fororaspberry.es/viewtopic.php?t=8163
 
