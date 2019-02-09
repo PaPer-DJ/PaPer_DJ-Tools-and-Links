@@ -17,6 +17,11 @@ https://hakchiresources.com/
 https://snesclassicmods.com/
 https://github.com/TheOtherGuys-Hakchi-Projects
 https://github.com/pathartl/BleemSync
+https://github.com/screemerpl/cbleemsync/releases
+
+https://github.com/DefKorns/om_theme-selector
+https://github.com/CompCom/OptionsMenu/releases/tag/1.3.0
+https://hakchi.net/hakchi/hmods/wpa-supplicant.hmod
 
 -------------------------------------------------------------------------
 
@@ -31,6 +36,10 @@ ISOS:
 
 DC INTERNET BROWSER
 https://mega.nz/#!SAc0QRBJ!s4Rgm7VpSlxLtsP3crpEXOYjyXCIQw6TpUudROqjNrk
+
+GRAFICOS:
+
+https://es.cooltext.com/Logo-Design-Neon
 
 ----------------------------------------------------------
 * THEMES RECALBOX *
